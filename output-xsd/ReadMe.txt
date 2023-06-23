@@ -1,0 +1,1 @@
+﻿This is to ensure the folder copies to the output directory.

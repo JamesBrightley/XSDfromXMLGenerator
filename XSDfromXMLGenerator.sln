@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XSDfromXMLGenerator", "XSDfromXMLGenerator.csproj", "{DC5EE2C2-49D1-40E1-8A5F-949F35D7D70E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC5EE2C2-49D1-40E1-8A5F-949F35D7D70E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC5EE2C2-49D1-40E1-8A5F-949F35D7D70E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC5EE2C2-49D1-40E1-8A5F-949F35D7D70E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC5EE2C2-49D1-40E1-8A5F-949F35D7D70E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F3B8ACC-A2DA-4515-BEE1-AA562302649A}
+	EndGlobalSection
+EndGlobal
