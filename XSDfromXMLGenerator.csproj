@@ -18,11 +18,8 @@
 		</Content>
 	</ItemGroup>
 	<ItemGroup>
+	  <None Remove="input-xml\ReadMe.txt" />
 	  <None Remove="output-xsd\ReadMe.txt" />
-	</ItemGroup>
-
-	<ItemGroup>
-		<Folder Include="input-xml\" />
 	</ItemGroup>
 
 </Project>
